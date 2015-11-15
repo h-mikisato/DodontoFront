@@ -1,0 +1,16 @@
+{
+  "name": "dodonto-front",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h-mikisato/DodontoFront.git"
+  },
+  "author": "h-mikisato",
+  "license": "MIT",
+  "description": "DodontoF Front",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "vue": "^1.0.8",
+    "webpack-stream": "^2.1.1"
+  }
+}
